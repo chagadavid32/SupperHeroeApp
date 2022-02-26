@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperHeroe app</string>
+    <string name="image_description">SuperHeroe Image</string>
+    <string name="tab_description">SuperHeroe Attribute</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

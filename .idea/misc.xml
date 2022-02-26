@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_blank.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_comics_page.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_details.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_details_carousel.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_events_page.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_page.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_page_biography.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_page_data.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_hero_series_page.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/fragment_heroes_list.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/heroe_data.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/layout/heroe_item.xml" value="0.2125" />
+        <entry key="..\:/Users/chaga/AndroidStudioProjects/SuperHeroeapp/app/src/main/res/xml/slide_in_right.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
